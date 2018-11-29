@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-11-27T02:18:42.686Z</updated>
+  <updated>2018-11-29T10:31:21.635Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2018/11/24/Hello-Hexo/"/>
     <id>http://yoursite.com/2018/11/24/Hello-Hexo/</id>
     <published>2018-11-24T09:51:57.000Z</published>
-    <updated>2018-11-27T02:18:42.686Z</updated>
+    <updated>2018-11-29T10:31:21.635Z</updated>
     
     <content type="html"><![CDATA[<p>摘要：第一篇博客<br><a id="more"></a><br>正文:<br>    使用Hexo+GitHub搭建属于自己的博客。</p>]]></content>
     
@@ -30,6 +30,8 @@
       &lt;p&gt;摘要：第一篇博客&lt;br&gt;
     
     </summary>
+    
+      <category term="hexo" scheme="http://yoursite.com/categories/hexo/"/>
     
     
       <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>

@@ -4,6 +4,9 @@
     <title><![CDATA[Hello,Hexo]]></title>
     <url>%2F2018%2F11%2F24%2FHello-Hexo%2F</url>
     <content type="text"><![CDATA[摘要：第一篇博客正文: 使用Hexo+GitHub搭建属于自己的博客。]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
       <tags>
         <tag>hexo</tag>
         <tag>github</tag>
